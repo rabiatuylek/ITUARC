@@ -1,0 +1,8 @@
+train: /home/cal-display1/Documents/hdd2/Rabia/Yolov5/yolov5/Dataset/images/train  # 128 images
+val: /home/cal-display1/Documents/hdd2/Rabia/Yolov5/yolov5/Dataset/images/val  # 128 images
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'drone' ]
